@@ -36,7 +36,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 ## !! Я хочу постигать эту сферу и дальше, учиться в ней, быть полезным уже сейчас, и перенимать опыт других.
 
 
-
+_ _ _ _ _
 - 👋 Hi, I’m Oleg Kovalyov
 - 👀 I'm interested in the profession of a web developer, and I don't have enough practice
 - 🌱 I'm currently studying front-end web development. I know basic HTML, CSS, I'm learning JS. I already have experience in website layout using layouts and adaptive layout.
@@ -46,8 +46,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
       My email - oleg.kovalyov_mfw@mail.ru
 - 😄 Pronouns: responsive and friendly, I want to study and work in this field
 - ⚡ Interesting fact: I have a higher education in programming, but I am only drawn to web development
-
-
+_ _ _ _ _
 
 - 👋 Привет! Меня зовут Олег Ковалёв!
 - 👀 Мне интересна профессия веб-разработчика, и мне не хватает практики
