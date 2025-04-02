@@ -39,7 +39,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 ## ***!!*** Я хочу постигать эту сферу и дальше, учиться в ней, быть полезным уже сейчас, и перенимать опыт других.
 
 
-_ _ _ _ _
 - 👋 Hi, I’m Oleg Kovalyov
 - 👀 I'm interested in the profession of a web developer, and I don't have enough practice
 - 🌱 I'm currently studying front-end web development. I know basic HTML, CSS, I'm learning JS. I already have experience in website layout using layouts and adaptive layout.
