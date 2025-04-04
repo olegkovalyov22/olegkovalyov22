@@ -46,7 +46,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 - 📫 How to contact me:
       Telegram - https://t.me/JesusCrazy
       My email - oleg.kovalyov_mfw@mail.ru
-- 😄 Pronouns: responsive and friendly, I want to study and work in this field
+- 😄 I am: responsive and friendly, I want to study and work in this field
 - ⚡ Interesting fact: I have a higher education in programming, but I am only drawn to web development
 _ _ _ _ _
 
@@ -57,7 +57,7 @@ _ _ _ _ _
 - 📫 Как со мной связаться:
       Телеграмм - https://t.me/JesusCrazy
       Моя почта - oleg.kovalyov_mfw@mail.ru
-- 😄 Местоимения: отзывчивый и доброжелательный, хочу учиться и работать в данной сфере
+- 😄 Я: отзывчивый и доброжелательный, хочу учиться и работать в данной сфере
 - ⚡ Интересный факт: У меня высшее образование в программировании, но меня тянет в веб-разработку
 
 
