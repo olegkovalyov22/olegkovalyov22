@@ -72,7 +72,7 @@ _ _ _ _ _
 **Этот репозиторий** - процесс создания и работа над моими пет-проектами.
 
 Они представлены в моём портфолио:
-- Репозиторий портфолио на GitHub (https://github.com/olegkovalyov22/web-dev_portfolio_Oleg-Kovalyov); \
+- Репозиторий портфолио на GitHub (https://github.com/olegkovalyov22/web-dev_portfolio_Oleg-Kovalyov);
 - одностраничный (на данный момент) сайт (https://olegkovalyov22.github.io/web-dev_portfolio_Oleg-Kovalyov).
 
 
@@ -93,6 +93,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
    - **tajam_layout.png** - макет, по которому был свёрстан сайт.
 
 #### [файл README.md]
+- Вы тут.. :)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### Да, проектов не так много,
