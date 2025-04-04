@@ -22,7 +22,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 (https://github.com/olegkovalyov22/project-002-Tajam-v.02).
 
 ### 3. Одностраничный сайт моего портфолио:
-3.1 - Страница сайта (https://olegkovalyov22.github.io./web-dev_portfolio_Oleg-Kovalyov); \
+3.1 - Страница сайта (https://olegkovalyov22.github.io/web-dev_portfolio_Oleg-Kovalyov); \
 3.2 - Код сайта (https://github.com/olegkovalyov22/web-dev_portfolio_Oleg-Kovalyov).
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
