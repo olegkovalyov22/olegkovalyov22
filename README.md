@@ -1,4 +1,5 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg)
 
 
 ## Привет, меня зовут Олег Ковалев.
