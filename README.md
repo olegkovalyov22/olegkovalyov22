@@ -1,6 +1,5 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg)
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg)
 
 
 ## Привет, меня зовут Олег Ковалев.
@@ -43,6 +42,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 ## ***!!*** Я хочу постигать эту сферу и дальше, учиться в ней, быть полезным уже сейчас, и перенимать опыт других.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg)
 
 - 👋 Hi, I’m Oleg Kovalyov
 - 👀 I'm interested in the profession of a web developer, and I don't have enough practice
@@ -67,7 +67,7 @@ _ _ _ _ _
 
 
 
-
+<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg) -->
 
 
 
